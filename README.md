@@ -2,6 +2,8 @@
 🔨 Advanced Auction Smart Contract | Kipu Ethereum Developer Pack - Module 2 practical assignment. English auction with time extension, partial refunds during bidding, and secure fund management.
 # 🔨 Advanced Auction Smart Contract (AuctionM2)
 
+https://sepolia.etherscan.io/address/0xA7B3015771eEC21a53202cCF9E6AAE23C7fe05b3#code
+
 ## 📋 General Description
 
 **AuctionM2** is a smart contract developed in Solidity that implements an advanced English auction system. The contract allows the creation and management of auctions with features such as automatic time extension, partial refunds during the auction, and secure deposit management with commissions.
